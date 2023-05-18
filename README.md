@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=coding+banner+images&tbm=isch&ved=2ahUKEwj5-qnS1u_-AhXYg2MGHVvlAY0Q2-cCegQIABAA&oq=BANNER+coding+IMAGES&gs_lcp=CgNpbWcQARgAMgYIABAIEB5QAFgAYABoAHAAeAOAAfgIiAHqG5IBBzUtMS4yLjGYAQCqAQtnd3Mtd2l6LWltZw&sclient=img&ei=DCNeZPnEEtiHjuMP28qH6Ag&bih=600&biw=1366&rlz=1C1UEAD_enIN1046IN1046#imgrc=OhaNQuU9AodR7M)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/search?q=coding+banner+images&tbm=isch&ved=2ahUKEwj5-qnS1u_-AhXYg2MGHVvlAY0Q2-cCegQIABAA&oq=BANNER+coding+IMAGES&gs_lcp=CgNpbWcQARgAMgYIABAIEB5QAFgAYABoAHAAeAOAAfgIiAHqG5IBBzUtMS4yLjGYAQCqAQtnd3Mtd2l6LWltZw&sclient=img&ei=DCNeZPnEEtiHjuMP28qH6Ag&bih=600&biw=1366&rlz=1C1UEAD_enIN1046IN1046#imgrc=OhaNQuU9AodR7M)]
 
 
 <h1 align="center">Hi 👋, I'm Ritik sharma</h1>
